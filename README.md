@@ -2,7 +2,7 @@
 <h2>👨‍💻 Business Analyst Projects:</h2>
 
 - <b>Automated Reservation Website</b>
-  - [Development of online reservation system using agile methodology](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Detailed description of the processes in involved in developing an online reservation system ](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2> 🤳 Connect with me:</h2>
 
