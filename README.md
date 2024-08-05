@@ -2,7 +2,7 @@
 
 <h2> Business Analyst Projects:</h2>
 
-- [Automated Reservation System](https://github.com/blessingautomatedreservation/)
+- [Automated Reservation System](https://github.com/Blessing1-bit/automatedreservationsystemproject/)
 
 <h2> 🤳 Connect with me:</h2>
 
