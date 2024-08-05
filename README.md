@@ -1,8 +1,8 @@
-<h1>Hi, I'm Blessing! <br/><a href="https://github.com/Blessing1-bit">Business Analyst</a> <a href="https://www.linkedin.com/in/obidikeblessing/">
-<h2>👨‍💻 Business Analyst Projects:</h2>
+<h1>Hi, I'm Blessing! </h1/>
 
-- <b>Automated Reservation System</b>
-- [Detailed description of the processes in involved in developing an online reservation system ](https://github.com/joshmadakor1/Algorithms-Practice)
+<h2> Business Analyst Projects:</h2>
+
+- [Automated Reservation System](https://github.com/blessingautomatedreservation/)
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -14,7 +14,7 @@
 [linkedin]: https://linkedin.com/in/obidikeblessing
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
