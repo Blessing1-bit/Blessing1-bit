@@ -1,7 +1,7 @@
 <h1>Hi, I'm Blessing! <br/><a href="https://github.com/Blessing1-bit">Business Analyst</a> <a href="https://www.linkedin.com/in/obidikeblessing/">
 <h2>👨‍💻 Business Analyst Projects:</h2>
 
-- <b>Automated Reservation Website</b>
+- <b>Automated Reservation System</b>
 - [Detailed description of the processes in involved in developing an online reservation system ](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2> 🤳 Connect with me:</h2>
