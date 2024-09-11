@@ -3,7 +3,7 @@
 <h2> Business Analyst Projects:</h2>
 
 - [Automated Reservation System](https://github.com/Blessing1-bit/automatedreservationsystemproject/)
-- [Digital Transformation Project](https://github.com/Blessing1-bit/digitaltransformations)
+- [Digital Transformation Project](https://github.com/Blessing1-bit/digitaltransformations/blob/main/README.md))
 
 <h2> 🤳 Connect with me:</h2>
 
